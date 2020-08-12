@@ -1,5 +1,2 @@
 hoge
-aaaan
-ootake
-tuika
-trying
+aa
